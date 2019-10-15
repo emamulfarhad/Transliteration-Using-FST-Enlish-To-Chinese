@@ -1,0 +1,13 @@
+build an fst that receives an English syllable as input and output the equivalent transliteration of the Chinese
+syllable. For example, the English syllable vi in the word vitamin will output wei in Chinese:
+Do the program with the following inputs: (Program test using random input)-
+full word will be with out space(example vitamin-weitamin)
+
+input		 Output
+vi ta min 	wei ta ming
+la tte 		na tie
+mo cha 		mo ka
+ti ra mi su	ti la mi su
+bun gee		beng ji
+la ser		lei she
+hac ker		hei ke
